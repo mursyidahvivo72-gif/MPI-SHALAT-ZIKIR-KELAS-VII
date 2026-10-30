@@ -1,0 +1,21 @@
+MEDIA PEMBELAJARAN INTERAKTIF (MPI)
+PAI KELAS VII — MENGHADIRKAN SALAT DAN ZIKIR DALAM KEHIDUPAN
+
+Cara menggunakan:
+1. Ekstrak seluruh isi file ZIP ke folder di komputer.
+2. Buka file MPI_PAI_Salat_dan_Zikir_Kelas_VII.html menggunakan Google Chrome atau Microsoft Edge.
+3. Gunakan tombol navigasi untuk membuka bagian:
+   - Apersepsi
+   - Asesmen Awal
+   - Materi Pokok
+   - Simulasi
+   - Kuis Interaktif
+   - Asesmen Akhir
+   - Refleksi
+4. Untuk menampilkan di Papan Interaktif Digital, buka file HTML pada komputer yang terhubung ke layar/PID.
+5. Pada bagian refleksi, gunakan tombol Cetak / Simpan sebagai PDF jika ingin menyimpan ringkasan refleksi.
+
+Catatan:
+- MPI berjalan secara lokal di browser dan tidak memerlukan instalasi aplikasi.
+- Koneksi internet tidak diperlukan untuk fitur inti MPI.
+- Jawaban tidak disimpan secara permanen; cetak/simpan refleksi jika diperlukan.
